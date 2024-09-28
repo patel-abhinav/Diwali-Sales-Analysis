@@ -1,4 +1,4 @@
-# 📊 Diwali Sales Insights
+# 📊 Diwali Sales Analysis
 
 ## 🚀 Project Overview
 
